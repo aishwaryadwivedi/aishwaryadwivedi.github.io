@@ -18,6 +18,7 @@ a {
 .page-header {
   margin-top: 0;
   margin-bottom: 0.4;
+  padding: 10px;
   color: #fff;
   text-align: center;
   background-color: #159957;
