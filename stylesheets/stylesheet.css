@@ -11,17 +11,14 @@ body {
 
 .a {
   color: #ffffff;
-  text-align: right;}
+  text-align: right;
+  padding: 10px;}
 
 .page-header {
   margin-bottom: 2rem;
   color: #ffffff;
   text-align: right;
   background-color: #222222; }
-
-.li {
-  float: right;
-  padding: 10px;}
 
 .site-footer {
   padding-top: 2rem;
