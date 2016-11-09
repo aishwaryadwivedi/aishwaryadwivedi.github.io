@@ -9,12 +9,12 @@ body {
   line-height: 1.5;
   color: #606c71; }
 
-.a {
+.li {
   color: #ffffff;
   text-align: right;
   padding: 10px;}
 
-.page-header {
+.page-header { 
   margin-bottom: 2rem;
   color: #ffffff;
   text-align: right;
