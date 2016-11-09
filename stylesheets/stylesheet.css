@@ -16,8 +16,6 @@ a {
     text-decoration: underline; }
 
 .page-header {
-  margin-top: 0;
-  margin-bottom: 0.4;
   color: #fff;
   text-align: left;
   overflow: auto;
