@@ -17,8 +17,8 @@ body {
   background-color: #222222; }
 
 .menu {
-  word-spacing: 20px;
-  margin-left: 10px;} 
+  text-align: left;
+  word-spacing: 20px;} 
 
 .site-footer {
   padding-top: 2rem;
