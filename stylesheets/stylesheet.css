@@ -36,6 +36,21 @@ a {
 @media screen and (min-width: 42em) {
   .page-header {} }
 
+.second-header {
+  color: #ffffff;
+  text-align: left;
+  overflow: auto;
+  background-color: #808080; }
+
+@media screen and (min-width: 64em) {
+  .second-header {} }
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .second-header {} }
+
+@media screen and (min-width: 42em) {
+  .second-header {} }
+
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem; }
