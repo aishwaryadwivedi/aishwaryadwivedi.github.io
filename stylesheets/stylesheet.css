@@ -13,12 +13,12 @@ body {
   padding-top: 5px;
   padding-bottom: 5px;
   color: #ffffff;
-  text-align: left;
   background-color: #222222; }
 
 .menu {
   text-align: left;
-  word-spacing: 20px;} 
+  word-spacing: 20px;
+  margin-left: 7cm;} 
 
 .site-footer {
   padding-top: 2rem;
