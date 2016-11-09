@@ -29,6 +29,7 @@ body {
   .page-header {} }
 
 .second-header {
+  padding: 10px;
   color: #ffffff;
   text-align: left;
   overflow: auto;
