@@ -16,6 +16,8 @@ a {
     text-decoration: underline; }
 
 .page-header {
+  margin-top: 0;
+  margin-bottom: 0.4;
   color: #fff;
   text-align: center;
   background-color: #159957;
