@@ -10,6 +10,7 @@ body {
   color: #606c71; }
 
 .page-header { 
+  padding-left: 2rem;
   margin-bottom: 2rem;
   color: #ffffff;
   text-align: right;
