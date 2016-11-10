@@ -15,10 +15,8 @@ body {
   color: #ffffff;
   background-color: #222222;
   word-spacing: 30px;
-  text-align: left;}
-
-.menu {
-  margin-left: 7cm;} 
+  text-align: left;
+  margin-left: 20px;}
 
 .site-footer {
   padding-top: 2rem;
