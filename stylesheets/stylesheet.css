@@ -13,11 +13,11 @@ body {
   padding-top: 5px;
   padding-bottom: 5px;
   color: #ffffff;
-  background-color: #222222; }
+  background-color: #222222;
+  word-spacing: 30px;
+  text-align: left;}
 
 .menu {
-  text-align: left;
-  word-spacing: 20px;
   margin-left: 7cm;} 
 
 .site-footer {
